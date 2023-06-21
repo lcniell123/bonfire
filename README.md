@@ -4,7 +4,7 @@
 **Manasse Nkundimana**- Developer <br>
 **Luciano Crossa**- Scrum Master 
 
-When camping, bonfires are a great conversation starter. They are great scenarios to get to know a group of people or individual. The application bonfire will help users organize bonfires between couples in order to meet and cook a dish together out door. In the northwest, camping has become so popular, that in some cases it is even hard to find a camping spot because they are all taken. Through the application the users can setup meeting times, discuss what they will cook together, find available locations to meet and more. 
+When camping, bonfires are a great conversation starter. They are great scenarios to get to know a group of people or individuals. The application Bonfire will help users organize bonfires groups or couples in order to meet and cook a dish together out door. In the northwest, camping has become so popular, that in some cases it is even hard to find a camping spot because they are all taken. Through the application the users can setup meeting times, discuss what they will cook together, find available locations to meet and more. 
 
 ## Backlog-
 
